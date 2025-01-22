@@ -101,7 +101,7 @@ npx nodemon .
 ---
 
 ## 貢獻
-如果想對本專案進行改進，歡迎提交 Pull Request！
+如果想對本專案進行改進，歡迎提交 [Pull Request](https://github.com/Tira-tw/Forza-Horizon-5-share-bot/pulls)！
 
 ---
 
