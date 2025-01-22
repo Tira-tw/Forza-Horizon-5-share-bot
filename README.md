@@ -40,7 +40,7 @@
 
 2. **安裝所需套件**：
    ```bash
-   npm install
+   npm install discord.js dotenv
    ```
 
 3. **設定環境變數**：
